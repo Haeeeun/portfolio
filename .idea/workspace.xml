@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c00c9e6-d309-4bde-85b3-13bf9a946d76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yup_style/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/portfolio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yup_style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hegfs\Desktop\Workspace\portfolio\yup_style\images" />
       <recent name="C:\Users\hegfs\Desktop\Workspace\portfolio\yup_style\images\news" />
       <recent name="C:\Users\hegfs\Desktop\Workspace\yup_style\yup_style\images" />
     </key>
@@ -56,7 +57,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579931453637</updated>
       <workItem from="1579931455029" duration="4266000" />
-      <workItem from="1579945519419" duration="4391000" />
+      <workItem from="1579945519419" duration="5069000" />
+      <workItem from="1580019583726" duration="12851000" />
     </task>
     <servers />
   </component>
@@ -64,6 +66,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580019947104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580019947104" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1579949998932">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
