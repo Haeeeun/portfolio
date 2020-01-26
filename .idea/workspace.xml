@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2c00c9e6-d309-4bde-85b3-13bf9a946d76" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yup_style/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yup_style/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/profile.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yup_style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,7 @@
       <updated>1579931453637</updated>
       <workItem from="1579931455029" duration="4266000" />
       <workItem from="1579945519419" duration="5069000" />
-      <workItem from="1580019583726" duration="12851000" />
+      <workItem from="1580019583726" duration="18313000" />
     </task>
     <servers />
   </component>
@@ -66,6 +65,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="579" y="114" key="CommitChangelistDialog2" timestamp="1580042416405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="579" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580042416405" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580019947104">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -273,6 +273,15 @@ b{
     height: 100%;
     box-sizing: border-box;
 }
+.profile_content{
+    position: relative;
+    margin-left: 224px;
+    padding: 150px 80px 150px 0;
+    display: block;
+    overflow: auto;
+    height: 100%;
+    box-sizing: border-box;
+}
 .oval{
     display: inline;
     border-radius: 24px;
@@ -435,6 +444,13 @@ b{
 }
 .profile_img{
     width: 40%;
+    max-width: 420px;
+    min-width: 325px;
+}
+.profile_text{
+    width: 100%;
+    margin-left: 58px;
+    height: fit-content;
 }
 .padding_60{
     padding: 60px 0;
@@ -446,11 +462,11 @@ b{
     font-weight: 800;
     letter-spacing: 1.07px;
     color: #edeef0;
-    margin-top: 60px;
+    margin-top: 90px;
 }
 .vertical_line{
     width: 1px;
-    height: 60%;
+    height: 100%;
     background-color: #e0e3e8;
     margin: 80px auto 0 auto;
 }
@@ -484,6 +500,36 @@ b{
 }
 .col_gr{
     color: #999999;
+}
+.profile_contact{
+    padding: 60px 0;
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+}
+.profile_contact img{
+    width: 32px;
+    height: 32px;
+    margin-right: 16px;
+    vertical-align: sub;
+}
+.profile_section{
+    display: flex;
+    margin-top: 100px;
+    height: fit-content;
+}
+.profile_section_01{
+    width: 15%;
+    overflow-y: hidden;
+}
+.profile_section_02{
+    width: 35%;
+    margin-right: 80px;
+    min-width: 312px;
+}
+.profile_section_03{
+    width: 50%;
+
 }
 @media screen and (max-width: 1600px) {
 
@@ -531,6 +577,21 @@ b{
     /*portfolio*/
     .portfolio_images label{
         font-size: 14px;
+    }
+    /*portfolio*/
+    .profile_contact{
+        font-size: 18px;
+    }
+    .profile_contact img{
+        width: 20px;
+        height: 20px;
+        margin-right: 8px;
+    }
+    .profile_section_02{
+        margin-right: 40px;
+    }
+    .year{
+        font-size: 80px;
     }
 }
 
@@ -612,6 +673,7 @@ b{
     .sns_02{
         position: relative;
         width: 50%;
+        max-width: 250px;
         margin: 100px auto;
         display: flex;
         justify-content: space-between;
@@ -632,7 +694,7 @@ b{
         margin-top: 30px;
     }
     .portfolio_images label{
-        font-size: 11px;
+        font-size: 14px;
     }
     .portfolio_content{
         padding: 94px 25px 0 25px;
@@ -643,6 +705,60 @@ b{
     }
     .portfolio_read_more{
         display: none;
+    }
+    /*profile*/
+    .profile{
+        display: block;
+    }
+    .profile_text{
+        width: 100%;
+        margin-left: 0;
+        height: fit-content;
+        margin-top: 48px;
+    }
+    .profile_contact{
+        display: block;
+        font-size: 15px;
+        padding: 16px 0;
+    }
+    .profile_contact div{
+        margin-top: 24px;
+    }
+    .profile_contact img{
+        width: 18px;
+        height: 18px;
+        margin-right: 15px;
+    }
+    .profile_section{
+        display: block;
+        margin-top: 48px;
+    }
+    .year{
+        margin-right: 0;
+        transform: inherit;
+        font-size: 100px;
+        font-weight: 800;
+        letter-spacing: 1.07px;
+        color: #edeef0;
+        margin-top: 0;
+        margin-bottom: 16px;
+    }
+    .vertical_line{
+        display: none;
+    }
+    .profile_section_01{
+       width: 100%;
+    }
+    .profile_section_02{
+        width: 100%;
+    }
+    .profile_section_03{
+        width: 100%;
+        margin-top: 40px;
+    }
+    .profile_content{
+        padding: 94px 25px;
+        margin-left: 0;
     }
 }
 
@@ -657,8 +773,15 @@ b{
     h1{
         font-size: 48px;
     }
+    .portfolio_images label{
+        font-size: 11px;
+    }
 }
 
 @media screen and (max-width: 375px) {
+    .profile_img{
+        width: 100%;
+        min-width: 270px;
+    }
 
 }
