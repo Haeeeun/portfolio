@@ -3,63 +3,180 @@
 <head>
     <meta charset="UTF-8">
     <title>YUPSTYLE</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css">
+    <script src="js/jquery.js"></script>
+    <script src="js/slider.js"></script>
+    <link rel="stylesheet" href="css/slider.css">
+
+    <script language="JavaScript">
+        $(document).ready(function() {
+            $("#slider").lightSlider({
+                mode:'slide',
+                loop:true,
+                auto:true,
+                keyPress:true,
+                pager:false,
+                speed:1500,
+                pause:3000,
+                vertical: true,
+                verticalHeight: 900,
+                item: 5,
+                vThumbWidth: 200
+            });
+            $("#main_image").lightSlider({
+                mode:'slide',
+                loop:true,
+                auto:true,
+                keyPress:true,
+                pager:false,
+                speed:1500,
+                pause:3000,
+                vertical: true,
+                item: 1,
+                vThumbWidth: 200
+            });
+            $("#main_content").lightSlider({
+                mode:'slide',
+                loop:true,
+                auto:true,
+                keyPress:true,
+                pager:false,
+                speed:1500,
+                pause:3000,
+                vertical: true,
+                verticalHeight: 900,
+                item: 5,
+                vThumbWidth: 200
+            });
+        });
+    </script>
+
+    <style>
+        ul{
+            list-style: none outside none;
+            padding-left: 0;
+            margin: 0;
+        }
+        .slide-content .slide-content{
+            margin-bottom: 60px;
+        }
+        .slider li{
+            text-align: center;
+            color: #FFF;
+            background-size:cover;
+            background-position: center;
+        }
+        .slide-content{
+            width: 100%;
+            height:100%;
+        }
+        #slider > .item1{background-image:url('images/portfolio/img-portfolio-01.png');}
+        #slider > .item2{background-image:url('images/portfolio/img-portfolio-02.png');}
+        #slider > .item3{background-image:url('images/portfolio/img-portfolio-03.png');}
+        #slider > .item4{background-image:url('images/portfolio/img-portfolio-04.png');}
+        #slider > .item5{background-image:url('images/portfolio/img-portfolio-05.png');}
+        #slider > .item6{background-image:url('images/portfolio/img-portfolio-06.png');}
+        #slider > .item7{background-image:url('images/portfolio/img-portfolio-07.png');}
+        #slider > .item8{background-image:url('images/portfolio/img-portfolio-08.png');}
+        #slider > .item9{background-image:url('images/portfolio/img-portfolio-09.png');}
+        #slider > .item10{background-image:url('images/portfolio/img-portfolio-10.png');}
+        #slider > .item11{background-image:url('images/portfolio/img-portfolio-11.png');}
+        #slider > .item12{background-image:url('images/portfolio/img-portfolio-12.png');}
+        #slider > .item13{background-image:url('images/portfolio/img-portfolio-13.png');}
+        #slider > .item14{background-image:url('images/portfolio/img-portfolio-14.png');}
+    </style>
 </head>
+
 <body>
 <div class="wrapper">
-    <div class="back_image"><img src="images/img-bg-portfolio-2.png"></div>
+    <div class="back_image"><img src="images/icon/img-bg-portfolio-2.png"></div>
     <!--------------------------- nav ---------------------------->
     <div class="nav">
-        <img class="logo" src="images/img-logo.png" alt="logo">
+        <img class="logo" src="images/icon/img-logo.png" alt="logo">
         <div class="sns">
-            <a class="icon_24"><img src="images/btn-sns-facebook.png" alt="facebook"></a>
-            <a class="icon_24"><img src="images/btn-sns-instagram.png" alt="instagram"></a>
-            <a class="icon_24"><img src="images/btn-sns-blog.png" alt="blog"></a>
+            <a class="icon_24"><img src="images/icon/btn-sns-facebook.png" alt="facebook"></a>
+            <a class="icon_24"><img src="images/icon/btn-sns-instagram.png" alt="instagram"></a>
+            <a class="icon_24"><img src="images/icon/btn-sns-blog.png" alt="blog"></a>
         </div>
-        <div class="hamburger"><img src="images/menu.png"></div>
+        <div class="hamburger"><img src="images/icon/menu.png"></div>
     </div>
     <!--------------------------- main ---------------------------->
     <div class="sub_wrapper">
 
         <div class="main_image_wrapper">
-            <img class="main_image" src="images/img-portfolio-03.png" alt="main_image">
+            <ul id="main_image" class="slider">
+                <li class="item1"><img class="main_image" src="images/portfolio/img-portfolio-03.png" alt="main_image"></li>
+                <li class="item2"><img class="main_image" src="images/portfolio/img-portfolio-04.png" alt="main_image"></li>
+                <li class="item3"><img class="main_image" src="images/portfolio/img-portfolio-05.png" alt="main_image"></li>
+                <li class="item3"><img class="main_image" src="images/portfolio/img-portfolio-06.png" alt="main_image"></li>
+                <li class="item3"><img class="main_image" src="images/portfolio/img-portfolio-07.png" alt="main_image"></li>
+                <li class="item3"><img class="main_image" src="images/portfolio/img-portfolio-08.png" alt="main_image"></li>
+                <li class="item3"><img class="main_image" src="images/portfolio/img-portfolio-09.png" alt="main_image"></li>
+                <li class="item3"><img class="main_image" src="images/portfolio/img-portfolio-10.png" alt="main_image"></li>
+                <li class="item3"><img class="main_image" src="images/portfolio/img-portfolio-11.png" alt="main_image"></li>
+                <li class="item3"><img class="main_image" src="images/portfolio/img-portfolio-12.png" alt="main_image"></li>
+                <li class="item3"><img class="main_image" src="images/portfolio/img-portfolio-13.png" alt="main_image"></li>
+                <li class="item3"><img class="main_image" src="images/portfolio/img-portfolio-14.png" alt="main_image"></li>
+                <li class="item3"><img class="main_image" src="images/portfolio/img-portfolio-01.png" alt="main_image"></li>
+                <li class="item3"><img class="main_image" src="images/portfolio/img-portfolio-02.png" alt="main_image"></li>
+            </ul>
         </div>
 
         <div class="main_section">
-            <div class="back_image_02"><img src="images/img-bg-portfolio-1.png"></div>
+            <div class="back_image_02"><img src="images/icon/img-bg-portfolio-1.png"></div>
             <div class="main_content">
-                <div class="center_v">
-                    <p class="sub_title">2008 The Dark Knight</p>
-                    <p class="slash"></p>
-                    <p class="title">Lucius fox<br>sound wave</p>
-                    <p class="explanation">Diorama scale 1/6<br>1200 X 700 X 900(H)mm</p>
-                    <button class="detail_button">DETAIL</button>
+                <div class="center_v width_100">
+                    <ul id="main_content" class="slider">
+                        <li>
+                            <div>
+                                <p class="sub_title">2008 The Dark Knight</p>
+                                <p class="slash"></p>
+                                <p class="title">Lucius fox<br>sound wave</p>
+                                <p class="explanation">Diorama scale 1/6<br>1200 X 700 X 900(H)mm</p>
+                                <button class="detail_button">DETAIL</button>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <p class="sub_title">2008 The Dark Knight</p>
+                                <p class="slash"></p>
+                                <p class="title">Lucius fox<br>sound wave</p>
+                                <p class="explanation">Diorama scale 1/6<br>1200 X 700 X 900(H)mm</p>
+                                <button class="detail_button">DETAIL</button>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
             </div>
             <div class="sns_02">
-                <a class="icon_24"><img src="images/btn-sns-facebook.png" alt="facebook"></a>
-                <a class="icon_24"><img src="images/btn-sns-instagram.png" alt="instagram"></a>
-                <a class="icon_24"><img src="images/btn-sns-blog.png" alt="blog"></a>
+                <a class="icon_24"><img src="images/icon/btn-sns-facebook.png" alt="facebook"></a>
+                <a class="icon_24"><img src="images/icon/btn-sns-instagram.png" alt="instagram"></a>
+                <a class="icon_24"><img src="images/icon/btn-sns-blog.png" alt="blog"></a>
             </div>
     
             <!--------------------------- images list ---------------------------->
             <div class="images_list">
-                <div class="image">
-                    <img src="images/img-portfolio-01.png" alt="image">
-                </div>
-                <div class="image">
-                    <img src="images/img-portfolio-01.png" alt="image">
-                </div>
-                <div class="image">
-                    <img style="transform: translateY(-50%) translateX(-37px);" src="images/img-portfolio-01.png" alt="image">
-                </div>
-                <div class="image">
-                    <img src="images/img-portfolio-01.png" alt="image">
-                </div>
-                <div class="image">
-                    <img src="images/img-portfolio-01.png" alt="image">
+                <div class="slide-wrap">
+                    <div class="slide-content">
+                        <ul id="slider" class="slider">
+                            <li class="item1"></li>
+                            <li class="item2"></li>
+                            <li class="item3"></li>
+                            <li class="item4"></li>
+                            <li class="item5"></li>
+                            <li class="item6"></li>
+                            <li class="item7"></li>
+                            <li class="item8"></li>
+                            <li class="item9"></li>
+                            <li class="item10"></li>
+                            <li class="item11"></li>
+                            <li class="item12"></li>
+                            <li class="item13"></li>
+                            <li class="item14"></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
@@ -67,6 +184,5 @@
 
     </div>
 </div>
-
 </body>
 </html>

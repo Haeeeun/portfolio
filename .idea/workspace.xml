@@ -3,8 +3,65 @@
   <component name="ChangeListManager">
     <list default="true" id="2c00c9e6-d309-4bde-85b3-13bf9a946d76" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/asset_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/detail/asset_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/btn-sns-blog.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/icon/btn-sns-blog.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/btn-sns-facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/icon/btn-sns-facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/btn-sns-instagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/icon/btn-sns-instagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/icon-18-arrow-bottom-b.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/icon/icon-18-arrow-bottom-b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/icon-32-email-pc.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/icon/icon-32-email-pc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/icon-32-fax-pc.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/icon/icon-32-fax-pc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/icon-32-mobile-pc.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/icon/icon-32-mobile-pc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/icon-32-phone-pc.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/icon/icon-32-phone-pc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-bg-portfolio-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/icon/img-bg-portfolio-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-bg-portfolio-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/icon/img-bg-portfolio-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/icon/img-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-03.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-04-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-04-02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-04-03.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-04-03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-04-04.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-04-04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-04-06.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-04-06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-04-07.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-04-07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-04-08.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-04-08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-04.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-05.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-06.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-07.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-08.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-09.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-10.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-11.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-12.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-13.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-14.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-15.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-16.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-17.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-18.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-19.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-20.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-21.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-22.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-23.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-24.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-25.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-26.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-27.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-portfolio-28.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/portfolio/img-portfolio-28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-yupstyle-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/profile/img-yupstyle-01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-yupstyle-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/profile/img-yupstyle-02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-yupstyle-03.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/profile/img-yupstyle-03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-yupstyle-04.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/profile/img-yupstyle-04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-yupstyle-05.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/profile/img-yupstyle-05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/img-yupstyle-06.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/profile/img-yupstyle-06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/images/menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/images/icon/menu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yup_style/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yup_style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yup_style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/yup_style/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +72,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -34,15 +93,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/css_image_slider (1)" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\hegfs\Desktop\Workspace\portfolio\yup_style\images" />
-      <recent name="C:\Users\hegfs\Desktop\Workspace\portfolio\yup_style\images\news" />
-      <recent name="C:\Users\hegfs\Desktop\Workspace\yup_style\yup_style\images" />
+      <recent name="C:\Users\hegfs\Desktop\Workspace\portfolio\yup_style\css" />
+      <recent name="C:\Users\hegfs\Desktop\Workspace\portfolio\yup_style\images\icon" />
+      <recent name="C:\Users\hegfs\Desktop\Workspace\portfolio\yup_style\images\portfolio" />
+      <recent name="C:\Users\hegfs\Desktop\Workspace\portfolio\yup_style\images\detail" />
+      <recent name="C:\Users\hegfs\Desktop\Workspace\portfolio\yup_style\images\main" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -58,7 +120,8 @@
       <workItem from="1579931455029" duration="4266000" />
       <workItem from="1579945519419" duration="5069000" />
       <workItem from="1580019583726" duration="19154000" />
-      <workItem from="1580092272590" duration="3098000" />
+      <workItem from="1580092272590" duration="15119000" />
+      <workItem from="1580124311787" duration="9103000" />
     </task>
     <servers />
   </component>
@@ -70,6 +133,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="579" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580042416405" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1580134721609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580134721609" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580019947104">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
